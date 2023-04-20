@@ -13,3 +13,5 @@ display(test)
 // COMMAND ----------
 
 test.withColumn("aaa", lit("bbb"))
+
+val abc = 123
