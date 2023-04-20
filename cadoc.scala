@@ -1,6 +1,7 @@
 // Databricks notebook source
 val test = "dataset.test"
 
+
 // COMMAND ----------
 
 // MAGIC %md
@@ -15,3 +16,10 @@ display(test)
 test.withColumn("aaa", lit("bbb"))
 
 val abc = 123
+
+val cde = abc + 456
+
+
+// COMMAND ----------
+
+
