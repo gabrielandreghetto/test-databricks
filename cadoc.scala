@@ -15,3 +15,7 @@ display(test)
 test.withColumn("aaa", lit("bbb"))
 
 val abc = 123
+
+// COMMAND ----------
+
+val felipe = "tsuchida"
