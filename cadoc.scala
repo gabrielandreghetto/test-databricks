@@ -22,4 +22,4 @@ val cde = abc + 456
 
 // COMMAND ----------
 
-
+val abdalla = "leonardo"
